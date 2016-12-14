@@ -32,8 +32,11 @@ Angular2 is built by webpack
     $ npm install
     $ npm start
 
-npm install is only one time to install dependencies
-
+npm install is only one time to install dependencies  
+If you cannot build correctly, please install webpack local
+    
+    $ npm install webpack  
+    
 ## Build UI(for pro)
     $ cd src/main/ui
     $ npm install
