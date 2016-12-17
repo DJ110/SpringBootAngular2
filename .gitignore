@@ -20,6 +20,9 @@ build
 
 # UI build
 src/main/ui/dist
+src/main/ui/.idea/libraries
+src/main/ui/.idea/workspace.xml
+src/main/ui/.idea/tasks.xml
 
 ## File-based project format:
 *.iws
